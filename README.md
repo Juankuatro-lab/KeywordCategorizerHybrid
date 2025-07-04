@@ -181,7 +181,6 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 **JC Espinosa**
 - Site web : [jc-espinosa.com](https://jc-espinosa.com)
-- Favicon : ![Favicon](https://jc-espinosa.com/wp-content/uploads/2024/06/JC-Espinosa-Favicon-blue-150x150.png)
 
 ## Support
 
